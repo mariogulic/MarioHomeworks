@@ -8,7 +8,7 @@ if (zodiac == 0) {
   document.write("Tiger");
 } else if (zodiac == 3) {
   document.write("Rabbit");
-} else if (zodiac == 4) {199
+} else if (zodiac == 4) {
   document.write("Dragon");
 } else if (zodiac == 5) {
   document.write("Snake");
